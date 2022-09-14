@@ -1,2 +1,2 @@
-# tugas1_desainweb
+# Tugas Desain Web
 Penerapan Layout Pada Web Sederhana
